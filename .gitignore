@@ -1,0 +1,14 @@
+# node_modules 폴더 무시
+node_modules/
+OneDrive*/
+.vscode/
+
+# 환경 변수 파일 무시
+.env
+
+# 로그 파일 무시
+*.log
+
+# 운영체제별 불필요 파일 무시
+.DS_Store
+Thumbs.db
